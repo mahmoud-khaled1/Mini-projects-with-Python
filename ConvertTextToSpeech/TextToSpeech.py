@@ -1,7 +1,7 @@
 from gtts import gTTS
 import os
 
-f=open('D:\\Mini projects with Python\\ConvertTextToSpeech\\asd.txt','r')
+f=open('D:\\Mini-projects-with-Python\\ConvertTextToSpeech\\asd.txt','r')
 txt=f.read()
 
 language='en'
